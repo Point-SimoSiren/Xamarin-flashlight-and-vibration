@@ -1,0 +1,14 @@
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\bin\Release\netstandard2.0\TaskulamppuXamarin.deps.json
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\bin\Release\netstandard2.0\TaskulamppuXamarin.dll
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\bin\Release\netstandard2.0\ref\TaskulamppuXamarin.dll
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\bin\Release\netstandard2.0\TaskulamppuXamarin.pdb
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\TaskulamppuXamarin.csprojAssemblyReference.cache
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\TaskulamppuXamarin.AssemblyInfoInputs.cache
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\TaskulamppuXamarin.AssemblyInfo.cs
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\TaskulamppuXamarin.csproj.CoreCompileInputs.cache
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\TaskulamppuXamarin.dll
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\ref\TaskulamppuXamarin.dll
+C:\Users\siren\source\repos\TaskulamppuXamarin\TaskulamppuXamarin\obj\Release\netstandard2.0\TaskulamppuXamarin.pdb

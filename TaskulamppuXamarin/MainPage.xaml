@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage BackgroundColor="Black" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskulamppuXamarin.MainPage">
+
+    <StackLayout>
+
+        <Label Text="Essentials esittelyä" TextColor="Silver" FontSize="30" Margin="30 , 30, 30, 20"></Label>
+
+        <Button Margin="30 , 40, 30, 30" BackgroundColor="HotPink" TextColor="Black" Padding="30"
+                Text="Lamppu päälle" x:Name="On_Button" Clicked="On_Button_Clicked" />
+
+        <Button Margin="30 , 10, 30, 30" BackgroundColor="MediumTurquoise" TextColor="Red" Padding="30"
+                Text="Lamppu pois" x:Name="Off_Button" Clicked="Off_Button_Clicked" />
+
+        <Button Margin="30 , 30, 30, 30" BackgroundColor="Yellow" TextColor="Black" Padding="30"
+                Text="Värinä päälle" x:Name="VibraOn_Button" Clicked="VibraOn_Button_Clicked" />
+
+        <Button Margin="30 , 10, 30, 30" BackgroundColor="lime" TextColor="Red" Padding="30"
+                Text="Värinä pois" x:Name="VibraOff_Button" Clicked="VibraOff_Button_Clicked" />
+
+
+    </StackLayout>
+
+</ContentPage>
